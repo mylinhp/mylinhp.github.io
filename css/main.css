@@ -3,8 +3,12 @@ body {
 	font-family: 'Quicksand';
 }
 
+h1 {
+	color: #5BD0C8;
+}
+
 .background-primary {
-	background-color: #5BD0C8;
+	background-color: #373632;
 }
 
 .background-secondary {
@@ -12,7 +16,7 @@ body {
 }
 
 .navbar-brand, .nav-item {
-	color: white;
+	color: #5BD0C8;
 }
 
 .headshot {
