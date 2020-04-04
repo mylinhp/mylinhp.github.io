@@ -1,15 +1,19 @@
 body {
 	color: white;
+	font-family: 'Quicksand';
 }
 
 img {
-	width: 100%;
+	width: 75%;
     border-radius: 50%;
 }
 
 .navbar-light {
-	color: white;
 	background-color: #5BD0C8;
+}
+
+.nav-item {
+	color: white;
 }
 
 .intro {
