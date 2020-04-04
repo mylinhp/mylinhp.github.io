@@ -21,7 +21,13 @@ body {
 	
 }
 
-.portfolio {
+.portfolio h3 {
+	color: ;
+	font-weight: bold;
+
+}
+
+.portfolio img {
 	width: 100%;
 	height: auto;
 }
