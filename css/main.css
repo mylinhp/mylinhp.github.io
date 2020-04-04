@@ -15,12 +15,13 @@ body {
 	color: white;
 }
 
-img.headshot {
+.headshot {
 	width: 75%;
     border-radius: 50%;
+	
 }
 
-img.portfolio {
+.portfolio {
 	width: 100%;
 	height: auto;
 }
