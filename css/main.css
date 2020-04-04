@@ -3,11 +3,6 @@ body {
 	font-family: 'Quicksand';
 }
 
-img {
-	width: 75%;
-    border-radius: 50%;
-}
-
 .background-primary {
 	background-color: #5BD0C8;
 }
@@ -18,4 +13,14 @@ img {
 
 .navbar-brand, .nav-item {
 	color: white;
+}
+
+img.headshot {
+	width: 75%;
+    border-radius: 50%;
+}
+
+img.portfolio {
+	width: 100%;
+	height: auto;
 }
