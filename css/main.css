@@ -12,6 +12,10 @@ img {
 	background-color: #5BD0C8;
 }
 
+.background-secondary {
+	background-color: #92a2a4;
+}
+
 .navbar-brand, .nav-item {
 	color: white;
 }
