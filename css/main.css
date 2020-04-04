@@ -1,5 +1,16 @@
+body {
+	color: white;
+}
+
 img {
 	width: 100%;
     border-radius: 50%;
 }
 
+.navbar-light {
+	background-color: #5BD0C8;
+}
+
+.intro {
+	background-color: #5BD0C8;
+}
