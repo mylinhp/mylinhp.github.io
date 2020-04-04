@@ -8,14 +8,10 @@ img {
     border-radius: 50%;
 }
 
-.navbar-light {
+.background-primary {
 	background-color: #5BD0C8;
 }
 
-.nav-item {
+.navbar-brand, .nav-item {
 	color: white;
-}
-
-.intro {
-	background-color: #5BD0C8;
 }
