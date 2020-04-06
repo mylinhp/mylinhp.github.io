@@ -11,7 +11,11 @@ body {
 
 h1 {
 	color: #5BD0C8;
-	font-size: 80px;
+	font-size: 60px;
+
+	@media (min-width: 768px) {
+		font-size: 80px;
+	}
 }
 
 a:hover {
@@ -41,7 +45,7 @@ a:hover {
     padding: 10px;
 }
 
- @media only screen and (max-width: 768px) {
+ @media (max-width: 768px) {
 	.headshot {
 		width: 60%;
 	    border-radius: 50%;
