@@ -3,23 +3,6 @@
 	margin: 0 auto;
 }
 
-@media (min-width: 768px) {
-	.headshot {
-		width: 100%;
-	}
-}
-
-@media (min-width: 768px) {
-	h1 {
-		font-size: 80px;
-	}
-}
-@media (min-width: 768px) {
-	body {
-		font-size: 20px;
-	}
-}
-
 body {
 	color: white;
 	font-family: 'Quicksand';
@@ -85,4 +68,21 @@ a:hover {
     background-color: #5BD0C8;
     border-color: #5BD0C8;
     min-width: 200px;
+}
+
+@media (min-width: 768px) {
+	.headshot {
+		width: 100%;
+	}
+}
+
+@media (min-width: 768px) {
+	h1 {
+		font-size: 80px;
+	}
+}
+@media (min-width: 768px) {
+	body {
+		font-size: 20px;
+	}
 }
