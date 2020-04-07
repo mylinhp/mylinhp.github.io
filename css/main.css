@@ -57,7 +57,7 @@ a:hover {
 
  @media (max-width: 768px) {
 	.headshot {
-		width: 60%;
+		width: 75%;
 	    border-radius: 50%;
 	}
 }
