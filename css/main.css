@@ -52,7 +52,7 @@ a:hover {
     padding: 10px;
 }
 
- @media (max-width: 768px) {
+ @media (min-width: 768px) {
 	.headshot {
 		width: 100%;
 	}
