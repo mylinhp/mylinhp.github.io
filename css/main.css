@@ -77,4 +77,5 @@ a:hover {
 	color: #fff;
     background-color: #5BD0C8;
     border-color: #5BD0C8;
+    min-width: 200px;
 }
