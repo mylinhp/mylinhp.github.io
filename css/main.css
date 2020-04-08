@@ -61,6 +61,7 @@ a:hover {
 .work img {
 	width: 100%;
 	height: auto;
+	opacity: .7;
 }
 
 .btn-info {
