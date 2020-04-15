@@ -9,6 +9,11 @@ body {
 	font-size: 18px;
 }
 
+.img {
+	width: 100%;
+	padding: 10px;
+}
+
 h1 {
 	color: #5BD0C8;
 	font-weight: bold;
