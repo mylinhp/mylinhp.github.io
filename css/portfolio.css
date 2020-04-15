@@ -17,6 +17,7 @@ h1 {
 h2 {
 	color: #373632;
 	font-weight: bold;
+	font-size: 1.5em;
 }
 
 
@@ -48,6 +49,10 @@ a:hover {
     background-color: #5BD0C8;
     border-color: #5BD0C8;
     min-width: 200px;
+}
+
+.background-primary {
+	background-color: #373632;
 }
 
 @media only screen and (min-width: 768px) {
