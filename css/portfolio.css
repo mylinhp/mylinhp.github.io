@@ -25,6 +25,10 @@ h2 {
 	font-size: 1.25em;
 }
 
+a {
+	color: #5BD0C8;
+}
+
 .hero-image {
 	background-image: linear-gradient(rgba(55, 54, 50,0.3), rgba(55, 54, 50,0.4), rgba(55, 54, 50,0.4)),url("/img/swd-hero3.jpeg")
 	height: 300px;
