@@ -9,8 +9,14 @@ body {
 	font-size: 18px;
 }
 
-h1, h2 {
+h1 {
 	color: #5BD0C8;
+	font-weight: bold;
+}
+
+h2 {
+	color: #373632;
+	font-weight: bold;
 }
 
 
@@ -31,14 +37,6 @@ a:hover {
 .icon {
 	height: 25px;
 	padding-bottom: 5px;
-}
-
-.background-primary {
-	background-color: #373632;
-}
-
-.background-secondary {
-	background-color: #a7b4b5;
 }
 
 .navbar-brand, .nav-item {
