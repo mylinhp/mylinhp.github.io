@@ -22,7 +22,7 @@ a:hover {
 .anchor a {
   position: absolute;
   left: 0px;
-  top: -62px;
+  top: -185px;
 }
 
 .anchor {
@@ -80,5 +80,9 @@ a:hover {
 	}
 	body {
 		font-size: 20px;
+	}
+	.anchor a {
+	  position: absolute;
+	  top: -62px;
 	}
 }
