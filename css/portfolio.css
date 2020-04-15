@@ -83,5 +83,9 @@ a:hover {
 }
 
 @media only screen and (min-width: 768px) {
-
+	.anchor a {
+	  position: absolute;
+	  top: -62px;
+	}
 }
+
