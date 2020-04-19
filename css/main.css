@@ -9,11 +9,30 @@ body {
 	font-size: 18px;
 }
 
+.casestudy {
+	color: #373632;
+}
+
 h1 {
 	color: #5BD0C8;
 	font-size: 60px;
 }
 
+h1.casestudy {
+	color: #5BD0C8;
+	font-weight: bold;
+}
+
+h2 {
+	color: #373632;
+	font-weight: bold;
+	font-size: 1.25em;
+}
+
+
+a {
+	color: #5BD0C8;
+}
 
 a:hover {
 	color: #5BD0C8;;
@@ -69,6 +88,29 @@ a:hover {
     background-color: #5BD0C8;
     border-color: #5BD0C8;
     min-width: 200px;
+}
+
+.hero-image {
+	background-image: linear-gradient(rgba(55, 54, 50,0.6), rgba(55, 54, 50,0.6), rgba(55, 54, 50,0.6)),url("/img/swd-hero3.jpeg");
+	height: 300px;
+	background-position: 50% 25%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+.hero-text {
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+}
+
+.casestudy {
+	width: 70%;
+    padding: 10px;
 }
 
 @media only screen and (min-width: 768px) {
